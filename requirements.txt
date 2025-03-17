@@ -1,0 +1,9 @@
+1. Hotels (Lodge),
+2. Hospitals with at lease 50 beds,
+3. Salon
+4. Boarding schools,
+5. Pooja Stores, -  Done
+6. Ladies emporium
+7. SIlk & Sarees,
+8. Shopping Malls,
+9. Textiles & handlooms. 
